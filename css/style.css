@@ -1,0 +1,9 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+p,ul{
+    text-align: left;
+}
+
